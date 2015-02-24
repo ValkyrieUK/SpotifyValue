@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    excon (0.44.2)
+    spotify-client (0.0.8)
+      excon (~> 0.37)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  spotify-client
